@@ -223,7 +223,7 @@ section {
     transition: var(--transition);
 }
 
-.hero-imageimg:hover {
+.hero-image img:hover {
     transform: scale(1.03);
     box-shadow: 0 0 30px rgba(4, 189, 149, 0.979);
 }
@@ -384,7 +384,7 @@ section {
     transition: var(--transition);
 }
 
-.project-link a:hover {
+.project-links a:hover {
     color: var(--primary-color)   
 }
 
@@ -416,4 +416,5 @@ footer {
         flex-direction: column;
     }
 }
+
 
