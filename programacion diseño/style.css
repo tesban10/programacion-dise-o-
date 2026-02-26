@@ -24,7 +24,7 @@ body {
     font-family: 'segeo UI', Tahoma, Geneva, Verdana, sans-serif;
     background-color: var(--dark-bg);
     color: var(--light-text);
-    line-height: 1.6s;
+    line-height: 1.6;
 }
 
 a {
@@ -416,3 +416,4 @@ footer {
         flex-direction: column;
     }
 }
+
